@@ -1,0 +1,118 @@
+
+
+
+.color-mates{
+    background-color: blue;
+    width: 50px;
+}
+.caste{
+    background-color: chartreuse;
+    width: 50px;
+}
+.valen{
+    background-color: blueviolet;
+    width: 50px;
+}
+.ingles{
+    background-color: cyan;
+    width: 50px;
+}
+.edf{
+    background-color: khaki;
+    width: 50px;
+}
+.tecno{
+    background-color: darkcyan;
+    width: 50px;
+}
+.info{
+    background-color: darkgoldenrod;
+    width: 50px;
+}
+.bio{
+    background-color: darkgreen;
+    width: 50px;
+}
+.fis{
+    background-color: darkslateblue;
+    width: 50px;
+
+}
+.geo{
+    background-color: crimson;
+    width: 50px;
+}
+.valors{
+    background-color: lime;
+    width: 50px;
+
+}
+.patio{
+    background-color: gray;
+    width: 50px;
+}
+#mates{
+    background-color: blue;
+    margin: 0 auto;
+}
+#ingles{
+    background-color: cyan;
+    margin: 0 auto;
+}
+#info{
+    background-color: darkgoldenrod;
+    margin: 0 auto;
+}
+#caste{
+    background-color: chartreuse;
+    margin: 0 auto;
+}
+#geo{
+    background-color: crimson;
+    margin: 0 auto;
+}
+#bio{
+    background-color: darkgreen;
+    margin: 0 auto;
+}
+#tecno{
+    background-color: darkcyan;
+    margin: 0 auto;
+}
+#valors{
+    background-color: lime;
+    margin: 0 auto;
+}
+#fis{
+    background-color: darkslateblue;
+    margin: 0 auto;
+}
+#edf{
+    background-color: khaki;
+    margin: 0 auto;
+}
+#valen{
+    background-color: blueviolet;
+    margin: 0 auto;
+}
+#patio{
+    background-color: gray;
+    margin: 0 auto;
+}
+#tutoria{
+    background-color: darkcyan;
+    margin: 0 auto;
+
+}
+#dias{
+    background-color: slateblue;
+    margin: 0 auto;
+}
+#horas{
+    background-color: tomato;
+    margin: 0 auto;
+}
+#horario{
+    background-color: yellow;
+    margin: 0 auto;
+}
